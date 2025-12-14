@@ -11,12 +11,13 @@ A quantitative rotation strategy built on the **Revenue Year-over-Year (YoY) Gro
 | `Clean the data.py`     | Data cleaning (missing value & outlier handling) |
 | `Connect facto to stock.py` | Logic for linking factors to stock data |
 
-##Strategy Logic
+## Strategy Logic
 Factor Selection: Use "Revenue YoY Growth" as the core stock-selection factor (IC = 0.62, validated as effective);
 Stock Selection Rule: Select the top 10 SOX constituents by YoY growth;
 Rebalancing Frequency: Every 63 trading days (~1 quarter);
 Capital Allocation: Max 10% capital per ticker to diversify risk.
-Backtest Performance (2024)
+
+## Backtest Performance (2024)
 Initial Capital: $100,000;
 Final Capital: $127,072.49;
 Annualized Return: 27.07%;
