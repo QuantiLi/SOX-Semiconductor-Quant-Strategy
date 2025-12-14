@@ -51,6 +51,12 @@ Annualized Return: 27.07%;
 Maximum Drawdown: 20.13%.
 
 
+<img width="1785" height="885" alt="ee8ab33c2b1266fc64a5b86eac15c5e8" src="https://github.com/user-attachments/assets/ebf36a5e-378b-407e-8b3f-4c9ce01b53fc" />
+
+
+
+
+
 
 
 ## Environment Dependencies
